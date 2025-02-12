@@ -1,0 +1,9 @@
+[project]
+name = "system-design-12-algos"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.3.5",
+]
